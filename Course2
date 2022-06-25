@@ -7,3 +7,9 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+
+print("My name is Monika")
+print("The module name of my choice is : Algorithm Analysis")
+Print("How to create a github account and how contributing to open source libraries are beneficial and to clone, push and merge them")
